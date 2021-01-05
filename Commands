@@ -1,0 +1,21 @@
+List of commands:
+
+r!clear (amount) - Clears messages in a channel
+
+r!kick (user) - Self explanatory
+
+r!ban (user) - Self explanatory
+
+r!coinflip - Sends heads or tails as a message1
+
+r!whomst - ???
+
+r!die ???
+
+r!support - Sends an invite to the support server
+
+r!invite - Sends a link to add the bot to another server
+
+(WIP COMMANDS)
+
+r!whois is a work in progress, it will display the user's id, highest role, and join date.
