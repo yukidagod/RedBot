@@ -10,6 +10,10 @@ r!whomst - ???
 
 r!die ???
 
+r!kick (user) - Self explanatory (MAKE SURE BOT ROLE IS ABOVE OTHERS)
+
+r!ban (user) - Self explanatory (MAKE SURE BOT ROLE IS ABOVE OTHERS)
+
 r!support - Sends an invite to the support server
 
 r!invite - Sends a link to add the bot to another server
@@ -18,9 +22,7 @@ r!invite - Sends a link to add the bot to another server
 
 r!whois is a work in progress, it will display the user's id, highest role, and join date.
 
-r!kick (user) - Self explanatory
 
-r!ban (user) - Self explanatory
 
 ------------------------(MUSIC COMMANDS)------------------------
 
