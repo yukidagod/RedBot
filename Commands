@@ -12,6 +12,8 @@ r!kick (user) - Self explanatory (MAKE SURE BOT ROLE IS ABOVE OTHERS)
 
 r!ban (user) - Self explanatory (MAKE SURE BOT ROLE IS ABOVE OTHERS)
 
+r!status - Directs you to the uptimerobot status page for the bot
+
 r!support - Sends an invite to the support server
 
 r!invite - Sends a link to add the bot to another server
