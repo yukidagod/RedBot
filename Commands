@@ -1,3 +1,5 @@
+(CREDIT TO RK CODING FOR SOME CODE)
+
 List of commands:
 
 r!clear (amount) - Clears messages in a channel
@@ -19,3 +21,24 @@ r!invite - Sends a link to add the bot to another server
 (WIP COMMANDS)
 
 r!whois is a work in progress, it will display the user's id, highest role, and join date.
+
+(MUSIC COMMANDS)
+
+Be careful to follow these steps in order
+
+1. r!join - Joins vc you are connected to
+
+2. r!queue (song) - puts a song in the list of songs to play
+
+3. r!play (exact song name) - enter the name of the song you listed in the queue.
+Example: r!queue s0nG
+"s0nG has been added to the queue!"
+r!play song doesn't work, you need to say r!play s0nG because that's what you listed it as.
+
+4. r!leave - leaves the VC
+
+5. r!remove (song) - Removes a song from the queue
+
+6. r!pause - pauses playing song
+
+7. r!resume - Resumes paused song.
