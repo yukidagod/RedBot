@@ -4,10 +4,6 @@ List of commands:
 
 r!clear (amount) - Clears messages in a channel
 
-r!kick (user) - Self explanatory
-
-r!ban (user) - Self explanatory
-
 r!coinflip - Sends heads or tails as a message1
 
 r!whomst - ???
@@ -18,11 +14,15 @@ r!support - Sends an invite to the support server
 
 r!invite - Sends a link to add the bot to another server
 
-(WIP COMMANDS)
+------------------------(WIP COMMANDS)------------------------
 
 r!whois is a work in progress, it will display the user's id, highest role, and join date.
 
-(MUSIC COMMANDS)
+r!kick (user) - Self explanatory
+
+r!ban (user) - Self explanatory
+
+------------------------(MUSIC COMMANDS)------------------------
 
 Be careful to follow these steps in order
 
