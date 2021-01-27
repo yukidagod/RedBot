@@ -20,7 +20,7 @@ r!invite - Sends a link to add the bot to another server
 
 r!server - Displays server info
 
-r!updates - Displays latest chenges to the bot.
+r!changes - Displays latest chenges to the bot.
 ------------------------(WIP COMMANDS)------------------------
 
 r!whois is a work in progress, it will display the user's id, highest role, and join date.
@@ -44,3 +44,5 @@ Be careful to follow these steps in order
 6. r!pause - pauses playing song
 
 7. r!resume - Resumes paused song.
+
+8. r!stop - Stops song and removes from queue
